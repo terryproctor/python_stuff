@@ -1,0 +1,11 @@
+﻿pots_of_gold = [12, 14, 15 , 62, 2, 36, 556,]
+largest=max(pots_of_gold)
+smallest=min(pots_of_gold)
+sum_of_pots=sum(pots_of_gold)
+length_of_pots=len(pots_of_gold)
+average_pots=sum(pots_of_gold) / len(pots_of_gold)
+print(largest)
+print(smallest)
+print(sum_of_pots)
+print(length_of_pots)
+print(average_pots)

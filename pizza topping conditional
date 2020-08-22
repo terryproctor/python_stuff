@@ -1,0 +1,2 @@
+pizza_topping = 'haggis'
+print(pizza_topping)
